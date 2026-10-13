@@ -10,7 +10,7 @@ run_worker_first = ["/api/*"]
 [[d1_databases]]
 binding = "DB"
 database_name = "thaksheel-fire-safety-db"
-database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
+toml     database_id = "bcb424bb-94a7-463b-a6dc-2a9a00563ef2"
 
 [ai]
 binding = "AI"
